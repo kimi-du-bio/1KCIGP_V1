@@ -1,6 +1,7 @@
 Note: some codes were adopted according to the configuration environment of the High-performance Computing Platform of China Agricultural University.
 
-#Description of each directory
+# Description of each directory
+
 * The varinat_detection directory contains codes for variant discovery. 
 
 * The reference_panel directory contains codes for construsting the 1KCIGP reference panel.
