@@ -1,0 +1,8 @@
+indivname: example.ind
+snpname: example.snp
+genotypename: exmaple.eigenstratgeno
+admixpop: admix
+refpops: ref1,ref2
+raw_outname: alder.txt
+checkmap: NO
+num_threads: 20
